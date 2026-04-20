@@ -1,34 +1,4 @@
 {
-    "META_CONFIG": {"checksum_type": "SHA256"},
-    "META_PROPERTIES": {
-        "config-error-codes": {
-            "always_alive": "NULL",
-            "file_path": "uems/configuration/config-error-codes.json",
-            "checksum": "0a030621921f7c5a3ee9043f6c587772f7afa0325bd957e02a5a55d67e151f02",
-            "version": "1747829519"
-        },
-        "mac-antivirus-list": {
-            "always_alive": "",
-            "file_path": "uems/inventory/mac_antivirus_list.json",
-            "checksum": "95be3a2f5d06c1c869bc9b7be7dd07d6e810c117ac05d2e7b86042a046a28cac",
-            "version": "1756726127"
-        },
-        "warranty-vendors": {
-            "file_path": "uems/inventory/warranty-vendors.json",
-            "checksum": "7e62540015353b179fbd579486575e33def73b0cc520023f83c5687f5b4c3710",
-            "version": "1755080078"
-        },
-        "inv-file-mappings": {
-            "always_alive": "",
-            "file_path": "uems/inventory/inv-file-mappings.json",
-            "checksum": "500529b644a32e53ab44b5687065dabff43645a7c9f271ea4c234585b0886b7e",
-            "version": "1755079519"
-        },
-        "config-gpo-admx": {
-            "file_path": "uems/configuration/GPOAdmX.zip",
-            "checksum": "5a85ef79c247f5b87e008541078669fac407b4270b922012ab610eba348c4e12",
-            "version": "1755668275"
-        }
-    }
+    
 }
 
