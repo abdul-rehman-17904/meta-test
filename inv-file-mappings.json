@@ -1,11 +1,3 @@
 {
-    "mac-antivirus-list" : {
-    "fileName" : "mac_antivirus_list.json",
-    "sourcePath" : "MAC\\",
-    "clientDataPath" : "Inventory\\MAC\\"
-    "clientDataPath" : "Inventory\\MAC\\",
-    "featureId" : 4004,
-    "handlerClass" : "com.adventnet.sym.server.inventory.listener.InvMetaDataUpdateListener",
-    "actions" : "SAVE_AS_FILE"
-  }
+
 }
